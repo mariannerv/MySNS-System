@@ -19,3 +19,4 @@
 
 ### NOTAS
 - Os ficheiros a serem usados devem estar dentro da pasta "ficheiros"; 
+- A compilação e os restantes comandos devem ser executados dentro da diretoria "projeto1";
