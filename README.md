@@ -21,3 +21,4 @@
 - Os ficheiros a serem usados devem estar dentro da pasta "ficheiros"; 
 - A compilação e os restantes comandos devem ser executados dentro da diretoria "projeto1";
 - A password atual do admin é "123456". Para alterar a password do admin basta apagar a pasta "admin" dentro da pasta "servidor" e reiniciar o servidor;
+  
